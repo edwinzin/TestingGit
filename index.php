@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php echo "PUTO"; ?>
+        <?php echo "Hello GitHub"; ?>
     </body>
 </html>
